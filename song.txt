@@ -1,2 +1,25 @@
-test
-test2
+[33mcommit ae342bfa493139b408aadfbd91c4b22a81396338[m[33m ([m[1;36mHEAD -> [m[1;32mfeature[m[33m)[m
+Author: maksimovichandrei <content.reklama@gmail.com>
+Date:   Wed Aug 26 11:36:57 2020 +0300
+
+    Signed-off-by: maksimovichandrei <content.reklama@gmail.com>
+
+[33mcommit 3c0f0a947a22f8a685e3b9fdc3cf3bd37d25199a[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmaster[m[33m)[m
+Author: maksimovichandrei <70218250+maksimovichandrei@users.noreply.github.com>
+Date:   Tue Aug 25 19:17:27 2020 +0300
+
+    Update song.txt
+
+[33mcommit 581c4ca2cb737e8bb5f465f1495e9dd5c834b399[m
+Author: maksimovichandrei <content.reklama@gmail.com>
+Date:   Tue Aug 25 19:14:42 2020 +0300
+
+    first commit
+
+[33mcommit 2de4e11cc35bd9737cfffedd96e7da6d5764344c[m
+Author: maksimovichandrei <70218250+maksimovichandrei@users.noreply.github.com>
+Date:   Tue Aug 25 18:43:58 2020 +0300
+
+    Initial commit
+
+text for branch feature
